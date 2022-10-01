@@ -70,4 +70,7 @@ public class DigitaleWijnKelder
         int leeftijdWijn = huidigJaartal - Jaartal;
         return leeftijdWijn;
     }
+    /*** test
+     * 
+     */
 }
